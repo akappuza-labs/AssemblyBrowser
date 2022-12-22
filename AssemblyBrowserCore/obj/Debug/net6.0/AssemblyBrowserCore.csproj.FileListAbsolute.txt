@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\AssemblyBrowser\AssemblyBrowserCore\bin\Debug\net6.0\AssemblyBrowserCore.deps.json
+C:\Users\user\Desktop\AssemblyBrowser\AssemblyBrowserCore\bin\Debug\net6.0\AssemblyBrowserCore.dll
+C:\Users\user\Desktop\AssemblyBrowser\AssemblyBrowserCore\bin\Debug\net6.0\AssemblyBrowserCore.pdb
+C:\Users\user\Desktop\AssemblyBrowser\AssemblyBrowserCore\obj\Debug\net6.0\AssemblyBrowserCore.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\AssemblyBrowser\AssemblyBrowserCore\obj\Debug\net6.0\AssemblyBrowserCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\AssemblyBrowser\AssemblyBrowserCore\obj\Debug\net6.0\AssemblyBrowserCore.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\AssemblyBrowser\AssemblyBrowserCore\obj\Debug\net6.0\AssemblyBrowserCore.AssemblyInfo.cs
+C:\Users\user\Desktop\AssemblyBrowser\AssemblyBrowserCore\obj\Debug\net6.0\AssemblyBrowserCore.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AssemblyBrowser\AssemblyBrowserCore\obj\Debug\net6.0\AssemblyBrowserCore.dll
+C:\Users\user\Desktop\AssemblyBrowser\AssemblyBrowserCore\obj\Debug\net6.0\refint\AssemblyBrowserCore.dll
+C:\Users\user\Desktop\AssemblyBrowser\AssemblyBrowserCore\obj\Debug\net6.0\AssemblyBrowserCore.pdb
+C:\Users\user\Desktop\AssemblyBrowser\AssemblyBrowserCore\obj\Debug\net6.0\ref\AssemblyBrowserCore.dll
